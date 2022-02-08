@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3789,
+    "name": "Miami Jet Boat Ride And Double Decker Hop On Hop Off Tour Bayside Marketplace",
+    "price": 2990,
+    "included": []
+  },
+  {
+    "id": 9575,
+    "name": "Miami Skyline 90 Min Cruise Of South Beach Millionaire Homes & Venetian Islands",
+    "price": 5999,
+    "included": []
+  },
+  {
+    "id": 8364,
+    "name": "Miami Tours",
+    "price": 33250,
+    "included": [
+      {
+        "id": 8463,
+        "name": "4-Hour Miami Deep Sea Fishing From Biscayne Bay",
+        "price": 2000,
+        "included": []
+      },
+      {
+        "id": 8464,
+        "name": "Miami: Skyview Standalone (GYG)",
+        "price": 9999,
+        "included": []
+      },
+      {
+        "id": 8465,
+        "name": "Boat tours",
+        "price": 12000,
+        "included": [
+          {
+            "id": 8467,
+            "name": "Speed Boat On Biscayne Bay And Beach Chairs On South Beach",
+            "price": 9999,
+            "included": []
+          },
+          {
+            "id": 3789,
+            "name": "Miami Jet Boat Ride And Double Decker Hop On Hop Off Tour Bayside Marketplace",
+            "price": 2990,
+            "included": []
+          },
+          {
+            "id": 3800,
+            "name": "Miami Speed Boat & Mojito Bar Meal With Free Drink At Bayside Marketplace",
+            "price": 2990,
+            "included": []
+          }
+        ]
+      }
+    ]
+  }
+]
