@@ -2,14 +2,12 @@
   {
     "id": 3789,
     "name": "Miami Jet Boat Ride And Double Decker Hop On Hop Off Tour Bayside Marketplace",
-    "price": 2990,
-    "included": []
+    "price": 2990
   },
   {
     "id": 9575,
     "name": "Miami Skyline 90 Min Cruise Of South Beach Millionaire Homes & Venetian Islands",
-    "price": 5999,
-    "included": []
+    "price": 5999
   },
   {
     "id": 8364,
@@ -19,14 +17,12 @@
       {
         "id": 8463,
         "name": "4-Hour Miami Deep Sea Fishing From Biscayne Bay",
-        "price": 2000,
-        "included": []
+        "price": 2000
       },
       {
         "id": 8464,
         "name": "Miami: Skyview Standalone (GYG)",
-        "price": 9999,
-        "included": []
+        "price": 9999
       },
       {
         "id": 8465,
@@ -36,20 +32,29 @@
           {
             "id": 8467,
             "name": "Speed Boat On Biscayne Bay And Beach Chairs On South Beach",
-            "price": 9999,
-            "included": []
+            "price": 9999
           },
           {
             "id": 3789,
             "name": "Miami Jet Boat Ride And Double Decker Hop On Hop Off Tour Bayside Marketplace",
-            "price": 2990,
-            "included": []
+            "price": 2990
           },
           {
             "id": 3800,
             "name": "Miami Speed Boat & Mojito Bar Meal With Free Drink At Bayside Marketplace",
             "price": 2990,
-            "included": []
+            "included": [
+              {
+                "id": 19101,
+                "name": "One World Observatory standard ticket",
+                "price": 3811
+              },
+              {
+                "id": 26912,
+                "name": "Madrids Wild West: City Exploration Game",
+                "price": 757
+              }
+            ]
           }
         ]
       }
